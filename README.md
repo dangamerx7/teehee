@@ -1,6 +1,6 @@
 # Solar Tweaks ☀️ Fork
 This is a fork!! Check solar tweaks out here : -
-![GitHub](https://img.shields.io/github/license/Solar-Tweaks/Solar-Tweaks?style=for-the-badge)
+https://github.com/Solar-Tweaks/solar-tweaks
 
 Solar Tweaks is a software that allows you to tweak Lunar Client to your liking and re-enable some features that are completely disabled such as Freelook, AutoTextHotkey, removing pinned servers, changing FPS text etc...
 
