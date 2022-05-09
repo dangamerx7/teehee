@@ -1,4 +1,4 @@
-# Solar Tweaks ☀️
+# Solar Tweaks ☀️ Fork
 
 ![GitHub](https://img.shields.io/github/license/Solar-Tweaks/Solar-Tweaks?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/Solar-Tweaks/Solar-Tweaks/total?style=for-the-badge)
