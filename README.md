@@ -28,7 +28,7 @@ $ git clone https://github.com/Solar-Tweaks/Solar-Tweaks.git
 ```
 Once the repo is downloaded move to the directory and install the dependencies
 ```bash
-$ cd Solar-Tweaks
+$ cd teehee
 $ npm install
 ```
 If you want to start a development version run this command (This will build the app and start it for you. This will also include hot reload for easier development and testing)
